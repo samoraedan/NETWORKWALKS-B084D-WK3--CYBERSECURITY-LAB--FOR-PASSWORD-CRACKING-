@@ -53,7 +53,7 @@ value that starts with $pdf$...
 passwords until it finds a match.
 7  Wait for the tool to finish. The cracked password will be shown on the screen
 8  Open the locked PDF file and enter the cracked password.
-Enter password1 (which you have just cracked)
+Enter password1 (which you have just cracked)  
 9  Your PDF file will open. You have completed the lab
 
 LAB CONFIGURATION 
