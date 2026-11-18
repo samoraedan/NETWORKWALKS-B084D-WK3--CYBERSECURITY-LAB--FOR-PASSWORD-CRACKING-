@@ -1,5 +1,7 @@
 # NETWORKWALKS-B084D-WK3--CYBERSECURITY-LAB--FOR-PASSWORD-CRACKING-
 Virtual demonstrations   CREATED FOR  PASSWORD CRACKING USING JOHN THE REPER  AND THE NETWORKWALKS FILE PASSWORD CRACKER  AND HARCH CREATOR 
+
+
 Jack the ripper is a tool that can be found on window or kali Linux this tool  is mainly used by hackers to crack password Hash  after the hashes are got. 
  
 In this project I used the the windows application of jack the ripper  to perform thispassword cracking and these are the steps i took to install and download it
